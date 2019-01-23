@@ -1,0 +1,15 @@
+/* boilerplate */
+
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+h2{
+	color: red;
+	background-color: black;
+	font-size: 46px;
+    line-height: 64px;
+    letter-spacing: 16px;
+}
