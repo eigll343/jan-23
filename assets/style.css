@@ -6,6 +6,12 @@
 	margin: 0;
 }
 
+h1{
+	color: blue;
+	font-family: Helvetica, sans;
+	font-size: 100px;
+}
+
 h2{
 	color: red;
 	background-color: black;
